@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vuducnam.github.io/snippets-7bqdfx/sitemap.xml
